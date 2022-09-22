@@ -1,4 +1,4 @@
-## Machine Learning Course Project.
+## Machine Learning Course Project
 
 It consists from two parts:
 
