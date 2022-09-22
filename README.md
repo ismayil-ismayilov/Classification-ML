@@ -1,5 +1,5 @@
 ## Machine Learning Course Project.
-- - -
+
 It consists from two parts:
 
 ### Regression
